@@ -1,6 +1,7 @@
 ---
 title: Home
 layout: home
+nav_order: 1
 ---
 
 Hello! I'm Anna, a technical writer and content creator with experience across software documentation, UX-centric writing, higher education, and editorial production.
