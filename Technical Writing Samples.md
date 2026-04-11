@@ -1,10 +1,10 @@
 ---
-title: Projects
+title: Technical Writing Samples
 layout: default
 nav_order: 3
 has_children: true
 ---
 
-# Projects
+# Technical Writing
 
 Select a project below:
