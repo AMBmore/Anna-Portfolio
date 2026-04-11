@@ -5,6 +5,6 @@ parent: Technical Writing Samples
 nav_order: 3
 ---
 
-# Case Study
+# Case Study: IKEA Manual
 
 Breakdown of your work.
