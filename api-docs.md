@@ -1,7 +1,7 @@
 ---
 title: API Documentation
 layout: default
-parent: Projects
+parent: Technical Writing Samples
 nav_order: 1
 ---
 
