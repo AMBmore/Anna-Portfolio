@@ -7,4 +7,4 @@ nav_order: 1
 
 # Case Study - DGH Engineering Webpage Design
 
-![Adding photo to DGH](/assets/images/photo.jpg)
+![Building Envelope Consulting Webpage](Screenshot_29-8-2025_112040_www.dghengineering.com.jpeg)
