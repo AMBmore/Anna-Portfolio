@@ -5,4 +5,4 @@ parent: Other Writing Samples
 nav_order: 3
 ---
 
-[View my document](/Article Publication - Jimmy Greene.pdf)
+[View PDF]({{ '/Article Publication - Jimmy Greene.pdf' | relative_url }})
