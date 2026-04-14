@@ -7,4 +7,4 @@ nav_order: 1
 
 # Case Study - DGH Engineering Webpage Design
 
-
+![Adding photo to DGH](/assets/images/photo.jpg)
