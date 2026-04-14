@@ -1,12 +1,3 @@
----
-title: API Documentation
-layout: default
-parent: Technical Writing Samples
-nav_order: 1
----
-
-# API Documentation
-
 # Fantasy Library API
 
 ## Create a Checkout
@@ -94,4 +85,3 @@ Idempotency-Key: chk_abc123_unique_key
 | GET    | /v1/library/checkouts/{id}        | Retrieve a checkout |
 | POST   | /v1/library/checkouts/{id}/return | Return a book       |
 | GET    | /v1/library/checkouts             | List all checkouts  |
-
