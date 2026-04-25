@@ -1,11 +1,13 @@
 ---
-title: Academic Writing Sample
+title: Academic Writing Samples
 layout: default
 parent: Other Writing Samples
 nav_order: 1
 ---
 
-# Academic Writing Sample
+# Academic Writing Samples
+
+## Master's Thesis
 
 My MA Thesis was completed in fulfillment of the requirements for a Master of Arts degree in English literature from the University of British Columbia. It was supported by a Social Sciences and Humanities Research Council Grant awareded by the Canadian Federal Government in January 2022.
 
@@ -14,3 +16,14 @@ My thesis focuses on the formation and standardization of Blues music across Ame
 [The Blues: Intersections between Black Art Forms and Post-Emancipation American Literature](http://hdl.handle.net/2429/87896)
 
 <img src="{{ '/Thesis Cover Page.jpg' | relative_url }}" alt="">
+
+<div style="text-align:center; margin: 50px 0; color: #aaa; letter-spacing: 5px;">
+  ✦ ✧ ✦ ✧ ✦
+</div>
+
+## Editorial
+Published February 17, 2022
+
+This Editorial piece was a collaboration between UBC English studies graduate students in the UBC Department of English Language and Literatures 
+
+[Black Writers and Critics You Should Know About, According to EL&L Grad Students](https://english.ubc.ca/news/black-writers-and-critics-you-should-know-about-according-to-ell-grad-students/)
