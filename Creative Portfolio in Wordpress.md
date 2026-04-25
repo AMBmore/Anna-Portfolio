@@ -7,7 +7,9 @@ nav_order: 2
 
 # Creative Portfolio in WordPress
 
-View my Creative Portolio here: [Untitiled Unmastered](https://amblackmore.wordpress.com/blog/)
+View my Creative Portolio here: 
+[Untitiled Unmastered - Home](https://amblackmore.wordpress.com/)
+[Untitiled Unmastered - Blog](https://amblackmore.wordpress.com/blog/)
 
 My WordPress site Untitled Unmastered was developed in 2019 as a centralized platform to document and present a range of creative work. The homepage functions as a professional landing page used for applications (e.g. grants and submissions), while the blog serves as a structured, scrollable archive of projects, written pieces, and multimedia content.
 
