@@ -3,9 +3,9 @@ title: Home
 layout: default
 nav_order: 1
 ---
+<link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+<img src="{{ '/IMG_E8404.JPG' | relative_url }}" class="profile-pic" alt="">
 
-<div style="text-align: center;">
-<img src="{{ '/IMG_E8404.JPG' | relative_url }}">
 
 Hello! I'm Anna, a technical writer and content creator with experience across software documentation, UX-centric writing, higher education, and editorial production.
 
