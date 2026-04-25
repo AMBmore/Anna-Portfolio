@@ -22,5 +22,5 @@ When I’m not writing documentation, I’m usually playing saxophone, composing
 
 Feel free to explore my work or reach out!
 
-[Connect with me on LinkedIn:](https://www.linkedin.com/in/annablackmore/)
+[Connect with me on LinkedIn](https://www.linkedin.com/in/annablackmore/)
 
