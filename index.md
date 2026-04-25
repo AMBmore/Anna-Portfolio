@@ -4,6 +4,9 @@ layout: default
 nav_order: 1
 ---
 
+<div style="text-align: center;">
+<img src="{{ '/IMG_E8404.JPG' | relative_url }}">
+
 Hello! I'm Anna, a technical writer and content creator with experience across software documentation, UX-centric writing, higher education, and editorial production.
 
 My background spans:
