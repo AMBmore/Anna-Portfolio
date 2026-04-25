@@ -4,14 +4,6 @@ layout: default
 nav_order: 1
 ---
 
-.profile-pic {
-  width: 150px;
-  height: 150px;
-  border-radius: 50%;
-  object-fit: cover;
-  display: block;
-  margin: 0 auto;
-}
 <div style="text-align: center;">
 <img src="{{ '/IMG_E8404.JPG' | relative_url }}">
 
