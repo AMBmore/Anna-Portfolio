@@ -11,12 +11,12 @@ Hi! Welcome to the written instructions for how to assemble an IKEA Micke desk. 
 
 ---
 
-Page 1
+# Page 1
 Please note that this desk can be created with the stacked drawers on either the right or left side, as noted on the first page. Decide which side you would prefer the stacked drawers prior to beginning assembly. 
 
 ---
 
-Page 2
+# Page 2
 You will need the following tools to complete assembly: 
 
 • Flathead screwdriver  
@@ -26,14 +26,12 @@ You will need the following tools to complete assembly:
 Assembly Tips:
 
 • If needed, consult an experienced assembler or contact local IKEA support.
-
 • Assemble the desk on a stable surface. Use a carpet or padding to prevent damage.
-
 • For questions or clarification on instructions, contact IKEA customer support.
 
 ---
 
-Pages 3-5
+# Pages 3-5
 In addition to the furniture components, the MICKE desk includes the following hardware:
 
 1. 3x Assembly Screws
@@ -60,12 +58,13 @@ In addition to the furniture components, the MICKE desk includes the following h
 
 ---
 
-## (Pg. 6) How to Make the Desk Drawers
+# Page 6: How to Make the Desk Drawers
 
 <div style="display:flex; gap:24px; margin-bottom:20px;">
 <div style="font-size:40px; font-weight:bold;">1</div>
 <div>
-Note: The following drawer assembly instructions apply to one small drawer and one large (give measurements?). 
+Note: The following drawer assembly instructions apply to one small drawer and one large.
+  
 • Large Drawer: 62 cm (W) x 36 cm (D)
 • Small Drawer: Approx. 23.5 cm (W) x 36.3 cm (D) x 7.8 cm (H)
 
@@ -89,6 +88,7 @@ Attach two small planks with divots on the inside and large holes on the outside
 <div>Guide two Small Cam Lock Fasteners into the large hole on the sides of the U-shaped structure. Tighten clockwise with a flathead screwdriver.</div>
 </div>
 
+
 <div style="display:flex; gap:24px;">
 <div style="font-size:40px; font-weight:bold;">4</div>
 <div>Flip the U-shaped structure. Gently slide the flat cardboard panel into the grooves until it creates a bottom for the desk. The wood grain or brown side should face outwards.</div>
@@ -102,6 +102,7 @@ Attach two small planks with divots on the inside and large holes on the outside
 <div style="font-size:40px; font-weight:bold;">5</div>
 <div>Attach another thin plank of wood with a divot behind the flat cardboard piece, creating the back of the drawer. Carefully line up the divots to fit with the cardboard piece. It is recommended to slide this board into one corner first.</div>
 </div>
+
 
 <div style="display:flex; gap:24px;">
 <div style="font-size:40px; font-weight:bold;">6</div>
