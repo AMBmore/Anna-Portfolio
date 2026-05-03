@@ -7,6 +7,8 @@ nav_order: 3
 
 # How to Assemble an IKEA MICKE desk
 
+![MICKE](MICKE pic.jpeg)
+
 Hi! Welcome to the written instructions for how to assemble an IKEA Micke desk. Let’s get started. After many moves (even internationally!) I have assembled and reassembled this desk multiple times, so I thought I would lend my expertise to those looking for written instruction as well or to provide written instruction for the visually impaired. This technical guide is designed for those who have recently purchased the MICKE desk with access to a paper copy of the IKEA instruction manual, or on a dual-monitor set up. 
 
 ---
