@@ -11,12 +11,12 @@ Hi! Welcome to the written instructions for how to assemble an IKEA Micke desk. 
 
 ---
 
-# Page 1
+### Page 1
 Please note that this desk can be created with the stacked drawers on either the right or left side, as noted on the first page. Decide which side you would prefer the stacked drawers prior to beginning assembly. 
 
 ---
 
-# Page 2
+### Page 2
 You will need the following tools to complete assembly: 
 
 • Flathead screwdriver  
@@ -26,12 +26,14 @@ You will need the following tools to complete assembly:
 Assembly Tips:
 
 • If needed, consult an experienced assembler or contact local IKEA support.
+
 • Assemble the desk on a stable surface. Use a carpet or padding to prevent damage.
+
 • For questions or clarification on instructions, contact IKEA customer support.
 
 ---
 
-# Pages 3-5
+### Pages 3-5
 In addition to the furniture components, the MICKE desk includes the following hardware:
 
 1. 3x Assembly Screws
@@ -58,7 +60,7 @@ In addition to the furniture components, the MICKE desk includes the following h
 
 ---
 
-# Page 6: How to Make the Desk Drawers
+## Page 6: How to Make the Desk Drawers
 
 <div style="display:flex; gap:24px; margin-bottom:20px;">
 <div style="font-size:40px; font-weight:bold;">1</div>
@@ -81,7 +83,7 @@ Attach two small planks with divots on the inside and large holes on the outside
 
 ---
 
-## (Pg. 7)
+### Page 7
 
 <div style="display:flex; gap:24px;">
 <div style="font-size:40px; font-weight:bold;">3</div>
