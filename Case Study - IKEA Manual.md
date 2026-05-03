@@ -60,6 +60,9 @@ In addition to the furniture components, the MICKE desk includes the following h
 20. 2x Drawer Runner/Slide Set
 21. Metal Table Leg
 
+
+![MICKE](IKEA manual - Hardware 1 FIXED.png)
+
 ---
 
 ## Page 6: How to Make the Desk Drawers
