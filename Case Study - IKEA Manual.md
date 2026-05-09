@@ -13,10 +13,22 @@ This guide provides written instructions for assembling an IKEA MICKE desk. It i
 
 ## Reference Materials:
 
-<a href="https://www.ikea.com/us/en/assembly_instructions/micke-desk-white__AA-476615-12-100.pdf" style="display:inline-block; padding:10px 16px; background:#2d6cdf; color:white; text-decoration:none; border-radius:6px;">
-IKEA Assembly Instructions
+<a href="" style="display:inline-block; padding:10px 16px; background:#2d6cdf; color:white; text-decoration:none; border-radius:6px;">
+
 </a>
 
+<div style="display:flex; gap:12px;">
+   <a href="https://www.ikea.com/us/en/p/micke-desk-white-80213074/"
+     style="display:inline-block; padding:10px 16px; background:#2d6cdf; color:white; text-decoration:none; border-radius:6px;">
+     IKEA Product Page
+ 
+  </a>
+ <a href="https://www.ikea.com/us/en/assembly_instructions/micke-desk-white__AA-476615-12-100.pdf"
+     style="display:inline-block; padding:10px 16px; background:#2d6cdf; color:white; text-decoration:none; border-radius:6px;">
+     IKEA Assembly Instructions
+
+  </a>
+</div>
 ---
 
 ### Page 1
