@@ -150,18 +150,18 @@ Attach two small planks with divots on the inside and large holes on the outside
 <div>Use the Philips screwdriver to screw two Drawer Screws on each side into the drawer glides.</div>
 </div>
 
-      Repeat steps 1-8 to complete the second drawer.
+Repeat steps 1-8 to complete the second drawer.
 
 ---
 
 ### Page 10
 
-Note: the next steps create a MICKE desk with the stacked shelving unit on the left-hand side. To make the stacked drawers on the right, proceed to page 25. 
+Note: the next steps create a MICKE desk with the stacked shelving unit on the left-hand side. To make the stacked drawers on the right, proceed to **page 25.** 
 
 <div style="display:flex; gap:24px;">
 <div style="font-size:40px; font-weight:bold;">9</div>
 <div>
-Power cord holder Assembly:
+**Power cord holder Assembly:**
 Place a wide wooden plank with three large holes on each side on a flat, cushioned surface, with the holes facing upward. Attach the smallest wooden plank with two Wood Dowels on one side to create an L-shape.
 </div>
 </div>
@@ -177,7 +177,7 @@ Place a wide wooden plank with three large holes on each side on a flat, cushion
 
 <div style="display:flex; gap:24px;">
 <div style="font-size:40px; font-weight:bold;">11</div>
-<div>Side Panels Assembly: Lay flat one of the largest desk panels and another about ¼ of that size. Place them so that the three holes on the sides are side-by-side together on the ground. Use the Phillips screwdriver to screw four Cam Lock Screws into each board: 3 together on the side, and one near the bottom, all facing up like stalagmites.</div>
+<div>**Side Panels Assembly:** Lay flat one of the largest desk panels and another about ¼ of that size. Place them so that the three holes on the sides are side-by-side together on the ground. Use the Phillips screwdriver to screw four Cam Lock Screws into each board: 3 together on the side, and one near the bottom, all facing up like stalagmites.</div>
 </div>
 
 ---
