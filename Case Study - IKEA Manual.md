@@ -339,7 +339,7 @@ Hurray! You finished building your MICKE desk 😊
 
 ---
 
-## (Pg. 25)
+### Page 25
 
 <div style="display:flex; gap:24px;">
 <div style="font-size:40px; font-weight:bold;">9</div>
@@ -353,9 +353,9 @@ Place a wide wooden plank with three large holes on each side on a flat, cushion
 
 ---
 
-## (Pg. 26)
+### Page 26
 
-<div style="display:flex; gap:24px;">
+<div style="display:flex; gap:24px; margin-bottom:20px;">
 <div style="font-size:40px; font-weight:bold;">10</div>
 <div>
 Attach the thinnest small wooden board directly on top of the L-shape with two additional Wood Dowels. Ensure that the large hole on the thin board is closest to the outer edge of the L shape.
@@ -371,9 +371,9 @@ Side Panels Assembly: Lay flat one of the largest desk panels and another about 
 
 ---
 
-## (Pg. 27)
+### Page 27
 
-<div style="display:flex; gap:24px;">
+<div style="display:flex; gap:24px; align-items:center;">
 <div style="font-size:40px; font-weight:bold;">12</div>
 <div>
 Attach one Drawer Runner to each board using two Drawer Screws per runner. Secure with a Phillips screwdriver.
