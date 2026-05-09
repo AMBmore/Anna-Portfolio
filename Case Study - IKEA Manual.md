@@ -90,10 +90,10 @@ In addition to the furniture components, the MICKE desk includes the following h
 <div style="display:flex; gap:24px; margin-bottom:20px;">
 <div style="font-size:40px; font-weight:bold;">1</div>
 <div>
-Note: The following drawer assembly instructions apply to one small drawer and one large.
-
-- Large Drawer: 62 cm (W) x 36 cm (D)
-- Small Drawer: Approx. 23.5 cm (W) x 36.3 cm (D) x 7.8 cm (H)
+Note: The following drawer assembly instructions apply to one small drawer and one large.  
+   
+- Large Drawer: 62 cm (W) x 36 cm (D)  
+- Small Drawer: Approx. 23.5 cm (W) x 36.3 cm (D) x 7.8 cm (H)  
 
 Lay the plank with a horizontal indent and two holes on the upper sides on a flat surface. Use the Philips screwdriver to screw in one Cam Lock Screw on each side in the lower holes. 
 </div>
