@@ -277,12 +277,14 @@ Place a wide wooden plank with three large holes on each side on a flat, cushion
 
 <div style="display:flex; gap:24px; margin-bottom:20px;">
 <div style="font-size:40px; font-weight:bold;">24</div>
-<div>Metal Table Leg Installation: Insert the Allen Key into its Holder to improve grip. Use the Allen Key to secure the Metal Table Leg with three Assembly Screws, tightening clockwise.</div>
+<div>
+   <strong>Metal Table Leg Installation:</strong> Insert the Allen Key into its Holder to improve grip. Use the Allen Key to secure the Metal Table Leg with three Assembly Screws, tightening clockwise.</div>
 </div>
 
 <div style="display:flex; gap:24px;">
 <div style="font-size:40px; font-weight:bold;">25</div>
-<div>Table Top Assembly: Use the Phillips screwdriver to screw six Cam Lock Screws into the table top, each screw standing up like a stalagmite.</div>
+<div>
+    <strong>Table Top Assembly:</strong> Use the Phillips screwdriver to screw six Cam Lock Screws into the table top, each screw standing up like a stalagmite.</div>
 </div>
 
 ---
