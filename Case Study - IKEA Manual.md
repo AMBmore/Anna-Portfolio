@@ -429,7 +429,7 @@ In the inner corners of the U-shaped structure, install eight Medium Cam Lock Fa
 <div style="display:flex; gap:24px;">
 <div style="font-size:40px; font-weight:bold;">15</div>
 <div>
-Drawer cabinet Assembly: Attach a Drawer Runner to the outside of the larger wood panel, aligned with the internal runners, and also attach a Drawer Runner to a new large wood panel. Secure both with the Phillips screwdriver and four Drawer Screws. 
+<strong>Drawer cabinet Assembly:</strong> Attach a Drawer Runner to the outside of the larger wood panel, aligned with the internal runners, and also attach a Drawer Runner to a new large wood panel. Secure both with the Phillips screwdriver and four Drawer Screws. 
 </div>
 </div>
 
