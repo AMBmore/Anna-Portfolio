@@ -150,7 +150,7 @@ Attach two small planks with divots on the inside and large holes on the outside
 <div>Use the Philips screwdriver to screw two Drawer Screws on each side into the drawer glides.</div>
 </div>
 
-Repeat steps 1-8 to complete the second drawer.
+      Repeat steps 1-8 to complete the second drawer.
 
 ---
 
