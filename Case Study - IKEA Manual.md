@@ -151,7 +151,7 @@ Place a wide wooden plank with three large holes on each side on a flat, cushion
 
 ### Page 11
 
-<div style="display:flex; gap:24px;"margin-bottom:20px;">
+<div style="display:flex; gap:24px; margin-bottom:20px;">
 <div style="font-size:40px; font-weight:bold;">10</div>
 <div>Attach the thinnest small wooden board directly on top of the L-shape with two additional Wood Dowels. Ensure that the large hole on the thin board is closest to the outer edge of the L shape.</div>
 </div>
