@@ -161,7 +161,7 @@ Note: the next steps create a MICKE desk with the stacked shelving unit on the l
 <div style="display:flex; gap:24px;">
 <div style="font-size:40px; font-weight:bold;">9</div>
 <div>
-**Power cord holder Assembly:**
+<strong>Power cord holder Assembly:</strong>
 Place a wide wooden plank with three large holes on each side on a flat, cushioned surface, with the holes facing upward. Attach the smallest wooden plank with two Wood Dowels on one side to create an L-shape.
 </div>
 </div>
@@ -177,7 +177,7 @@ Place a wide wooden plank with three large holes on each side on a flat, cushion
 
 <div style="display:flex; gap:24px;">
 <div style="font-size:40px; font-weight:bold;">11</div>
-<div>**Side Panels Assembly:** Lay flat one of the largest desk panels and another about ¼ of that size. Place them so that the three holes on the sides are side-by-side together on the ground. Use the Phillips screwdriver to screw four Cam Lock Screws into each board: 3 together on the side, and one near the bottom, all facing up like stalagmites.</div>
+<div><strong>Side Panels Assembly:<strong> Lay flat one of the largest desk panels and another about ¼ of that size. Place them so that the three holes on the sides are side-by-side together on the ground. Use the Phillips screwdriver to screw four Cam Lock Screws into each board: 3 together on the side, and one near the bottom, all facing up like stalagmites.</div>
 </div>
 
 ---
