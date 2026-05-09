@@ -121,7 +121,7 @@ Attach two small planks with divots on the inside and large holes on the outside
 
 ### Page 9
 
-<div style="display:flex; gap:24px; margin-bottom:30px;">
+<div style="display:flex; gap:24px; margin-bottom:20px;">
 <div style="font-size:40px; font-weight:bold;">7</div>
 <div>Time for the rollers: Line up two Drawer Runners with the smaller holes on the bottom edges of the drawer. Make sure the wheels on the drawer glides face outwards, placed farthest away from the front of the drawer.</div>
 </div>
@@ -135,7 +135,7 @@ Repeat steps 1-8 to complete the second drawer.
 
 ---
 
-## (Pg. 10)
+### Page 10
 
 Note: the next steps create a MICKE desk with the stacked shelving unit on the left-hand side. To make the stacked drawers on the right, proceed to page 25. 
 
@@ -149,9 +149,9 @@ Place a wide wooden plank with three large holes on each side on a flat, cushion
 
 ---
 
-## (Pg. 11)
+### Page 11
 
-<div style="display:flex; gap:24px;">
+<div style="display:flex; gap:24px;"margin-bottom:20px;">
 <div style="font-size:40px; font-weight:bold;">10</div>
 <div>Attach the thinnest small wooden board directly on top of the L-shape with two additional Wood Dowels. Ensure that the large hole on the thin board is closest to the outer edge of the L shape.</div>
 </div>
