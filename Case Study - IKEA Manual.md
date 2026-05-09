@@ -27,11 +27,9 @@ You will need the following tools to complete assembly:
 
 Assembly Tips:
 
-• If needed, consult an experienced assembler or contact local IKEA support.
-
-• Assemble the desk on a stable surface. Use a carpet or padding to prevent damage.
-
-• For questions or clarification on instructions, contact IKEA customer support.
+- If needed, consult an experienced assembler or contact local IKEA support.
+- Assemble the desk on a stable surface. Use a carpet or padding to prevent damage.
+- For questions or clarification on instructions, contact IKEA customer support.
 
 ---
 
@@ -597,13 +595,13 @@ Optional: Cover the remaining screw holes underneath the desk that don’t have 
 
 The following diagrams demonstrate how to adjust the positioning of the swinging door. The hinge system allows for the following adjustments:
 
-• Vertical height adjustment 
-• Horizontal (left/right) alignment 
-• Depth adjustment (distance from shelves) 
+- Vertical height adjustment
+- Horizontal (left/right) alignment
+- Depth adjustment (distance from shelves) 
 
 To adjust, use the Philips Screwdriver to:
 
-1) Slightly loosen the Drawer Screws on the hinge 
-2) Reposition the door as needed 
-3) Retighten screws once the desired alignment is achieved
+1. Slightly loosen the Drawer Screws on the hinge
+2. Reposition the door as needed
+3. Retighten screws once the desired alignment is achieved
 
