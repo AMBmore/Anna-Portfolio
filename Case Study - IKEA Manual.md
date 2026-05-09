@@ -21,9 +21,9 @@ Please note that this desk can be created with the stacked drawers on either the
 ### Page 2
 You will need the following tools to complete assembly: 
 
-• Flathead screwdriver  
-• Philips screwdriver  
-• Hammer  
+- Flathead screwdriver
+- Philips screwdriver
+- Hammer  
 
 Assembly Tips:
 
