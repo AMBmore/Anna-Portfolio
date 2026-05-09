@@ -465,9 +465,9 @@ Position the outer large wood panel on its side and attach it to the desk, align
 
 ---
 
-## (Pg. 33)
+### Page 33
 
-<div style="display:flex; gap:24px;">
+<div style="display:flex; gap:24px; margin-bottom:20px;">
 <div style="font-size:40px; font-weight:bold;">22</div>
 <div>
 Secure the lower connections by installing two Large Cam Lock Fasteners and tightening with a flathead screwdriver.
@@ -483,9 +483,9 @@ Insert six Wood Dowels into the top panels (two per panel) at the top of the des
 
 ---
 
-## (Pg. 34)
+### Page 34
 
-<div style="display:flex; gap:24px;">
+<div style="display:flex; gap:24px; margin-bottom:20px;">
 <div style="font-size:40px; font-weight:bold;">24</div>
 <div>
 Metal Table Leg Installation: Insert the Allen Key into its Holder to improve grip. Use the Allen Key to secure the Metal Table Leg with three Assembly Screws, tightening clockwise.
@@ -501,7 +501,7 @@ Table Top Assembly: Use the Phillips screwdriver to screw six Cam Lock Screws in
 
 ---
 
-## (Pg. 35)
+### Page 35
 
 <div style="display:flex; gap:24px;">
 <div style="font-size:40px; font-weight:bold;">26</div>
@@ -519,9 +519,9 @@ from underneath the desk, insert six Large Cam Lock Fasteners and tighten clockw
 
 ---
 
-## (Pg. 36)
+### Page 36
 
-<div style="display:flex; gap:24px;">
+<div style="display:flex; gap:24px; align-items:center;">
 <div style="font-size:40px; font-weight:bold;">28</div>
 <div>
 Insert four Push-on Plastic Feet into the base of the drawers.  
