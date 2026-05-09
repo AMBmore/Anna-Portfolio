@@ -382,9 +382,9 @@ Attach one Drawer Runner to each board using two Drawer Screws per runner. Secur
 
 ---
 
-## (Pg. 28)
+### Page 28
 
-<div style="display:flex; gap:24px;">
+<div style="display:flex; gap:24px; margin-bottom:20px;">
 <div style="font-size:40px; font-weight:bold;">13</div>
 <div>
 Position the assembled power cord holder on the ground. Bring the side panels upright at a 90-degree angle along the longest side of the holder. Align the Cam Lock Screws with the corresponding holes. Insert a Wood Dowel adjacent to each Cam Lock Screw location. Press firmly until all components are securely fitted.
@@ -400,7 +400,7 @@ In the inner corners of the U-shaped structure, install eight Medium Cam Lock Fa
 
 ---
 
-## (Pg. 29)
+### Page 29
 
 <div style="display:flex; gap:24px;">
 <div style="font-size:40px; font-weight:bold;">15</div>
@@ -411,9 +411,9 @@ Drawer cabinet Assembly: Attach a Drawer Runner to the outside of the larger woo
 
 ---
 
-## (Pg. 30)
+### Page 30
 
-<div style="display:flex; gap:24px;">
+<div style="display:flex; gap:24px; margin-bottom:20px;">
 <div style="font-size:40px; font-weight:bold;">16</div>
 <div>
 On the new wood panel, attach two Hinge Baseplates at the ends of the long row of holes, just below the Drawer Runners. Secure with four Euro Screws (two per Baseplate) and a Phillips screwdriver. Ensure screws are placed in the “A” porthole engraved on the Hinge Baseplate. 
@@ -429,9 +429,9 @@ Use the Philips screwdriver to screw in four Cam Lock Screws, two at the bottom 
 
 ---
 
-## (Pg. 31)
+### Page 31
 
-<div style="display:flex; gap:24px;">
+<div style="display:flex; gap:24px; margin-bottom:20px;">
 <div style="font-size:40px; font-weight:bold;">18</div>
 <div>
 Slide the thickest wood panel into the Cam Lock Screws of the U-shaped structure. The wood grain faces outwards from the desk, as this will form the base.
@@ -447,9 +447,9 @@ Use the flathead screwdriver to install two Large Cam Lock Fasteners to lock in 
 
 ---
 
-## (Pg. 32)
+### Page 32
 
-<div style="display:flex; gap:24px;">
+<div style="display:flex; gap:24px; margin-bottom:20px;">
 <div style="font-size:40px; font-weight:bold;">20</div>
 <div>
 On the floor, attach the small rectangular board to the top of the desk with two Wood Dowels. Insert two additional Dowels into the opposite side of this small board as well. 
