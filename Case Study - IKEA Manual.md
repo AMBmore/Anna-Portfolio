@@ -172,9 +172,9 @@ Place a wide wooden plank with three large holes on each side on a flat, cushion
 
 ---
 
-## (Pg. 13)
+### Page 13
 
-<div style="display:flex; gap:24px;">
+<div style="display:flex; gap:24px; margin-bottom:20px;">
 <div style="font-size:40px; font-weight:bold;">13</div>
 <div>Position the assembled power cord holder on the ground. Bring the side panels upright at a 90-degree angle along the longest side of the holder. Align the Cam Lock Screws with the corresponding holes. Insert a Wood Dowel adjacent to each Cam Lock Screw location. Press firmly until all components are securely fitted.</div>
 </div>
