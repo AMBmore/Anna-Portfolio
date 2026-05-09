@@ -326,7 +326,8 @@ Place a wide wooden plank with three large holes on each side on a flat, cushion
 
 <div style="display:flex; gap:24px;">
 <div style="font-size:40px; font-weight:bold;">31</div>
-<div>Assembling the Swinging Door: Attach two Hinge Arms to the door panel using two Drawer Screws per hinge.</div>
+<div>
+   <strong>Assembling the Swinging Door:</strong> Attach two Hinge Arms to the door panel using two Drawer Screws per hinge.</div>
 </div>
 
 ---
