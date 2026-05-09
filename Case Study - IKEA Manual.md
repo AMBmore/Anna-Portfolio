@@ -613,7 +613,7 @@ Insert the Cable Grommet Sleeve into the hole in the top of the desk.
 </div>
 </div>
 
-Optional: Cover the remaining screw holes underneath the desk that don’t have screws in them with Set Cover Caps for a seamless look. I didn’t really mind one way or another, so I skipped this step.
+Optional: Cover the remaining screw holes underneath the desk that don’t have screws in them with Set Cover Caps for a seamless look. I didn’t really mind, so I skipped this step.
 
 ---
 
