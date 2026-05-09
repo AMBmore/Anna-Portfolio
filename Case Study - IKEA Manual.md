@@ -163,9 +163,9 @@ Place a wide wooden plank with three large holes on each side on a flat, cushion
 
 ---
 
-## (Pg. 12)
+### Page 12
 
-<div style="display:flex; gap:24px;">
+<div style="display:flex; gap:24px; align-items:center;">
 <div style="font-size:40px; font-weight:bold;">12</div>
 <div>Attach one Drawer Runner to each board using two Drawer Screws per runner. Secure with a Phillips screwdriver.</div>
 </div>
