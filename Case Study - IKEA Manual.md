@@ -358,7 +358,7 @@ Place a wide wooden plank with three large holes on each side on a flat, cushion
 <div>Insert the Cable Grommet Sleeve into the hole in the top of the desk.</div>
 </div>
 
-Optional: Cover the remaining screw holes underneath the desk that don’t have screws in them with Set Cover Caps for a seamless look. I didn’t really mind one way or another, so I skipped this step.
+Optional: Cover the remaining screw holes underneath the desk that don’t have screws in them with Set Cover Caps for a seamless look. I didn’t really mind, so I skipped this step.
 
 Hurray! You finished building your MICKE desk 😊
 
@@ -369,10 +369,9 @@ Hurray! You finished building your MICKE desk 😊
 <div style="display:flex; gap:24px;">
 <div style="font-size:40px; font-weight:bold;">9</div>
 <div>
-The following pages describe how to build the shelving unit on the right-hand side. The following steps mirror Pages 10–24, with the layout reversed for right-side drawer placement. Follow the same procedures, ensuring all components are aligned according to the right-side configuration diagrams. 
+The following pages describe how to build the shelving unit on the right-hand side. The following steps mirror Pages 10–24, with the layout reversed for right-side drawer placement. Follow the same procedures, ensuring all components are aligned according to the right-side configuration diagrams.   
 
-Power cord holder Assembly:
-Place a wide wooden plank with three large holes on each side on a flat, cushioned surface, with the holes facing upward. Attach the smallest wooden plank with two Wood Dowels on one side to create an L-shape.
+<strong>Power cord holder Assembly:</strong> Place a wide wooden plank with three large holes on each side on a flat, cushioned surface, with the holes facing upward. Attach the smallest wooden plank with two Wood Dowels on one side to create an L-shape.
 </div>
 </div>
 
