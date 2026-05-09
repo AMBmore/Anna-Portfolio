@@ -126,7 +126,7 @@ Attach two small planks with divots on the inside and large holes on the outside
 <div>Time for the rollers: Line up two Drawer Runners with the smaller holes on the bottom edges of the drawer. Make sure the wheels on the drawer glides face outwards, placed farthest away from the front of the drawer.</div>
 </div>
 
-<div style="display:flex; gap:24px;">
+<div style="display:flex; gap:24px; align-items:center;">
 <div style="font-size:40px; font-weight:bold;">8</div>
 <div>Use the Philips screwdriver to screw two Drawer Screws on each side into the drawer glides.</div>
 </div>
