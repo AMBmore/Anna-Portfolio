@@ -97,12 +97,10 @@ Attach two small planks with divots on the inside and large holes on the outside
 <div style="font-size:40px; font-weight:bold;">3</div>
 <div>Guide two Small Cam Lock Fasteners into the large hole on the sides of the U-shaped structure. Tighten clockwise with a flathead screwdriver.</div>
 </div>
-</div>
 
 <div style="display:flex; gap:24px;">
 <div style="font-size:40px; font-weight:bold;">4</div>
 <div>Flip the U-shaped structure. Gently slide the flat cardboard panel into the grooves until it creates a bottom for the desk. The wood grain or brown side should face outwards.</div>
-</div>
 </div>
 
 ---
@@ -112,13 +110,11 @@ Attach two small planks with divots on the inside and large holes on the outside
 <div style="display:flex; gap:24px;">
 <div style="font-size:40px; font-weight:bold;">5</div>
 <div>Attach another thin plank of wood with a divot behind the flat cardboard piece, creating the back of the drawer. Carefully line up the divots to fit with the cardboard piece. It is recommended to slide this board into one corner first.</div>
-</div>  
 </div>
 
 <div style="display:flex; gap:24px;">
 <div style="font-size:40px; font-weight:bold;">6</div>
 <div>Insert the tip of a Plastic Screw Plug Pin onto both sides of the drawer, where the side and back boards connect. Flip the drawer on its side and hammer the Screw Pins into place.</div>
-</div>
 </div>
 
 ---
