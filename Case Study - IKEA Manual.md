@@ -293,9 +293,9 @@ Place a wide wooden plank with three large holes on each side on a flat, cushion
 
 ---
 
-## (Pg. 22)
+### Page 22
 
-<div style="display:flex; gap:24px;">
+<div style="display:flex; gap:24px; margin-bottom:20px;">
 <div style="font-size:40px; font-weight:bold;">30</div>
 <div>Carefully stand the assembled desk upright. Slide the small drawer into the upper drawer slot. Ensure that the wheel on the small drawer’s Runner goes up and slides over the wheel attached to the Drawer Runner inside the desk.</div>
 </div>
@@ -307,9 +307,9 @@ Place a wide wooden plank with three large holes on each side on a flat, cushion
 
 ---
 
-## (Pg. 23)
+### Page 23
 
-<div style="display:flex; gap:24px;">
+<div style="display:flex; gap:24px; margin-bottom:20px;">
 <div style="font-size:40px; font-weight:bold;">32</div>
 <div>The Hinge Baseplates are designed so you can adjust the swinging door to your liking. Turn to page 40 for more detailed instructions on adjustment strategies. Essentially, tighten screws halfway, adjust alignment as needed, then fully secure all screws while holding the hinge in place.</div>
 </div>
@@ -321,14 +321,14 @@ Place a wide wooden plank with three large holes on each side on a flat, cushion
 
 ---
 
-## (Pg. 24)
+### Page 24
 
-<div style="display:flex; gap:24px;">
+<div style="display:flex; gap:24px; margin-bottom:20px;">
 <div style="font-size:40px; font-weight:bold;">34</div>
 <div>Apply one Clear Plastic Bumper to the edge of each shelf, precisely at the point of contact with the door. This is to prevent slamming or damage to the desk shelves or items inside.</div>
 </div>
 
-<div style="display:flex; gap:24px;">
+<div style="display:flex; gap:24px; align-items:center;">
 <div style="font-size:40px; font-weight:bold;">35</div>
 <div>Insert the Cable Grommet Sleeve into the hole in the top of the desk.</div>
 </div>
