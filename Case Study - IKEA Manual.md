@@ -265,9 +265,9 @@ Place a wide wooden plank with three large holes on each side on a flat, cushion
 
 ---
 
-## (Pg. 20)
+### Page 20
 
-<div style="display:flex; gap:24px;">
+<div style="display:flex; gap:24px; margin-bottom:20px;">
 <div style="font-size:40px; font-weight:bold;">26</div>
 <div>Aligning the screws with the adjacent holes, connect the table top with the constructed desk. Apply some pressure. Ensure the cable opening in the table top is aligned with the power cable holder.</div>
 </div>
@@ -279,9 +279,9 @@ Place a wide wooden plank with three large holes on each side on a flat, cushion
 
 ---
 
-## (Pg. 21)
+### Page 21
 
-<div style="display:flex; gap:24px;">
+<div style="display:flex; gap:24px; align-items:center;">
 <div style="font-size:40px; font-weight:bold;">28</div>
 <div>Insert four Push-on Plastic Feet into the base of the drawers.</div>
 </div>
