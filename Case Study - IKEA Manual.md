@@ -186,7 +186,7 @@ Place a wide wooden plank with three large holes on each side on a flat, cushion
 
 ---
 
-## (Pg. 14)
+### Page 14
 
 <div style="display:flex; gap:24px;">
 <div style="font-size:40px; font-weight:bold;">15</div>
@@ -195,9 +195,9 @@ Place a wide wooden plank with three large holes on each side on a flat, cushion
 
 ---
 
-## (Pg. 15)
+### Page 15
 
-<div style="display:flex; gap:24px;">
+<div style="display:flex; gap:24px; margin-bottom:20px;">
 <div style="font-size:40px; font-weight:bold;">16</div>
 <div>On the new wood panel, attach two Hinge Baseplates at the ends of the long row of holes, just below the Drawer Runners. Secure with four Euro Screws (two per Baseplate) and a Phillips screwdriver. Ensure screws are placed in the “A” porthole engraved on the Hinge Baseplate.</div>
 </div>
@@ -209,9 +209,9 @@ Place a wide wooden plank with three large holes on each side on a flat, cushion
 
 ---
 
-## (Pg. 16)
+### Page 16
 
-<div style="display:flex; gap:24px;">
+<div style="display:flex; gap:24px; margin-bottom:20px;">
 <div style="font-size:40px; font-weight:bold;">18</div>
 <div>Slide the thickest wood panel into the Cam Lock Screws of the U-shaped structure. The wood grain faces outwards from the desk, as this will form the base.</div>
 </div>
