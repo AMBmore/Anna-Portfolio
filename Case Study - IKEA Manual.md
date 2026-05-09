@@ -369,7 +369,7 @@ Hurray! You finished building your MICKE desk 😊
 <div style="display:flex; gap:24px;">
 <div style="font-size:40px; font-weight:bold;">9</div>
 <div>
-The following pages describe how to build the shelving unit on the right-hand side. The following steps mirror Pages 10–24, with the layout reversed for right-side drawer placement. Follow the same procedures, ensuring all components are aligned according to the right-side configuration diagrams.   
+The following pages describe how to build the shelving unit on the right-hand side. The following steps mirror Pages 10–24, with the layout reversed for right-side drawer placement. Follow the same procedures, ensuring all components are aligned according to the right-side configuration diagrams.<br>   
 
 <strong>Power cord holder Assembly:</strong> Place a wide wooden plank with three large holes on each side on a flat, cushioned surface, with the holes facing upward. Attach the smallest wooden plank with two Wood Dowels on one side to create an L-shape.
 </div>
