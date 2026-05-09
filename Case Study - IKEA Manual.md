@@ -503,7 +503,7 @@ Table Top Assembly: Use the Phillips screwdriver to screw six Cam Lock Screws in
 
 ### Page 35
 
-<div style="display:flex; gap:24px;">
+<div style="display:flex; gap:24px; margin-bottom:20px;">
 <div style="font-size:40px; font-weight:bold;">26</div>
 <div>
 Aligning the screws with the adjacent holes, connect the table top with the constructed desk. Apply some pressure. Ensure the cable opening in the table top is aligned with the power cable holder. 
@@ -513,7 +513,7 @@ Aligning the screws with the adjacent holes, connect the table top with the cons
 <div style="display:flex; gap:24px;">
 <div style="font-size:40px; font-weight:bold;">27</div>
 <div>
-from underneath the desk, insert six Large Cam Lock Fasteners and tighten clockwise with a flathead screwdriver to secure the tabletop.
+From underneath the desk, insert six Large Cam Lock Fasteners and tighten clockwise with a flathead screwdriver to secure the tabletop.
 </div>
 </div>
 
@@ -537,9 +537,9 @@ Apply two Set Pad Felt Hexes to the bottom of the Metal Table Leg. (Note: You ma
 
 ---
 
-## (Pg. 37)
+### Page 37
 
-<div style="display:flex; gap:24px;">
+<div style="display:flex; gap:24px; margin-bottom:20px;">
 <div style="font-size:40px; font-weight:bold;">30</div>
 <div>
 Carefully stand the assembled desk upright. Slide the small drawer into the upper drawer slot. Ensure that the wheel on the small drawer’s Runner goes up and slides over the wheel attached to the Drawer Runner inside the desk. 
@@ -555,9 +555,9 @@ Assembling the Swinging Door: Attach two Hinge Arms to the door panel using two 
 
 ---
 
-## (Pg. 38)
+### Page 38
 
-<div style="display:flex; gap:24px;">
+<div style="display:flex; gap:24px; margin-bottom:20px;">
 <div style="font-size:40px; font-weight:bold;">32</div>
 <div>
 The Hinge Baseplates are designed so you can adjust the swinging door to your liking. Turn to page 40 for more detailed instructions on adjustment strategies. Essentially, tighten screws halfway, adjust alignment as needed, then fully secure all screws while holding the hinge in place.
@@ -573,7 +573,7 @@ Insert eight Shelf Pins to secure the weight of two shelves, using four pins per
 
 ---
 
-## (Pg. 39)
+### Page 39
 
 <div style="display:flex; gap:24px;">
 <div style="font-size:40px; font-weight:bold;">34</div>
@@ -582,7 +582,7 @@ Apply one Clear Plastic Bumper to the edge of each shelf, precisely at the point
 </div>
 </div>
 
-<div style="display:flex; gap:24px;">
+<div style="display:flex; gap:24px; align-items:center;">
 <div style="font-size:40px; font-weight:bold;">35</div>
 <div>
 Insert the Cable Grommet Sleeve into the hole in the top of the desk. 
@@ -593,14 +593,16 @@ Optional: Cover the remaining screw holes underneath the desk that don’t have 
 
 ---
 
-## (Pg. 40)
+### Page 40
 
 The following diagrams demonstrate how to adjust the positioning of the swinging door. The hinge system allows for the following adjustments:
+
 • Vertical height adjustment 
 • Horizontal (left/right) alignment 
 • Depth adjustment (distance from shelves) 
 
 To adjust, use the Philips Screwdriver to:
+
 1) Slightly loosen the Drawer Screws on the hinge 
 2) Reposition the door as needed 
 3) Retighten screws once the desired alignment is achieved
