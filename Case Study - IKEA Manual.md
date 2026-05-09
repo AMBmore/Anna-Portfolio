@@ -336,7 +336,7 @@ Place a wide wooden plank with three large holes on each side on a flat, cushion
 
 <div style="display:flex; gap:24px; margin-bottom:20px;">
 <div style="font-size:40px; font-weight:bold;">32</div>
-<div>The Hinge Baseplates are designed so you can adjust the swinging door to your liking. Turn to page 40 for more detailed instructions on adjustment strategies. Essentially, tighten screws halfway, adjust alignment as needed, then fully secure all screws while holding the hinge in place.</div>
+<div>The Hinge Baseplates are designed so you can adjust the swinging door to your liking. Turn to <strong>page 40</strong> for more detailed instructions on adjustment strategies. Essentially, tighten screws halfway, adjust alignment as needed, then fully secure all screws while holding the hinge in place.</div>
 </div>
 
 <div style="display:flex; gap:24px;">
