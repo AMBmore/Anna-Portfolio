@@ -223,9 +223,9 @@ Place a wide wooden plank with three large holes on each side on a flat, cushion
 
 ---
 
-## (Pg. 17)
+### Page 17
 
-<div style="display:flex; gap:24px;">
+<div style="display:flex; gap:24px; margin-bottom:20px;">
 <div style="font-size:40px; font-weight:bold;">20</div>
 <div>On the floor, attach the small rectangular board to the top of the desk with two Wood Dowels. Insert two additional Dowels into the opposite side of this small board as well.</div>
 </div>
@@ -237,9 +237,9 @@ Place a wide wooden plank with three large holes on each side on a flat, cushion
 
 ---
 
-## (Pg. 18)
+### Page 18
 
-<div style="display:flex; gap:24px;">
+<div style="display:flex; gap:24px; margin-bottom:20px;">
 <div style="font-size:40px; font-weight:bold;">22</div>
 <div>Secure the lower connections by installing two Large Cam Lock Fasteners and tightening with a flathead screwdriver.</div>
 </div>
@@ -251,9 +251,9 @@ Place a wide wooden plank with three large holes on each side on a flat, cushion
 
 ---
 
-## (Pg. 19)
+### Page 19
 
-<div style="display:flex; gap:24px;">
+<div style="display:flex; gap:24px; margin-bottom:20px;">
 <div style="font-size:40px; font-weight:bold;">24</div>
 <div>Metal Table Leg Installation: Insert the Allen Key into its Holder to improve grip. Use the Allen Key to secure the Metal Table Leg with three Assembly Screws, tightening clockwise.</div>
 </div>
