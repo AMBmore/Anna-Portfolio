@@ -119,9 +119,9 @@ Attach two small planks with divots on the inside and large holes on the outside
 
 ---
 
-## (Pg. 9)
+### Page 9
 
-<div style="display:flex; gap:24px;">
+<div style="display:flex; gap:24px; margin-bottom:20px;">
 <div style="font-size:40px; font-weight:bold;">7</div>
 <div>Time for the rollers: Line up two Drawer Runners with the smaller holes on the bottom edges of the drawer. Make sure the wheels on the drawer glides face outwards, placed farthest away from the front of the drawer.</div>
 </div>
