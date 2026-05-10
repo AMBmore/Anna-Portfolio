@@ -9,11 +9,11 @@ nav_order: 1
 
 ## Overview
 
-The Fantasy Library API allows developers to manage digital and physical library workflows through a REST-based interface. This sample endpoint demonstrates how users can create and manage book checkout records programmatically.
+The Fantasy Library API is a fictional REST-based service designed to simulate modern library management systems that support both physical and digital lending workflows. It enables developers to manage core operations such as user accounts, book checkouts, and lending policies programmatically.
 
-This documentation sample was created as part of a technical writing portfolio project to demonstrate API documentation structure, developer-focused writing, and information architecture using Markdown and GitHub Pages.
+Fantasy Library is a fictional cloud-based platform built for public libraries, academic institutions, and regional lending networks. It supports media circulation, branch coordination, and automated lending workflows across distributed systems.
 
-[Add additional introductory context here about the project, goals, or fictional company background.]
+This documentation sample was developed as part of a technical writing portfolio to demonstrate API documentation structure, information architecture, and developer-focused writing using Markdown and GitHub Pages. Prompt engineering techniques and AI-assisted tools such as ChatGPT and Claude Code were used to help model a realistic API workflow and incorporate real-world constraints commonly found in library systems.
 
 ---
 
@@ -216,6 +216,8 @@ This documentation sample was created using:
 - Jekyll
 - REST API documentation conventions
 - Command-line request examples using cURL
+- Claude Code
+- VS Code
 
 [Add additional tools, frameworks, or workflow details here.]
 
