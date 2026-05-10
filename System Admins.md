@@ -272,8 +272,8 @@ Subject line format: `Completed POs + DD/MM/YYYY`
 24) Rename the PDF file by replacing the date portion with the Billing Number.  
 25) Email the Finance department following the instructions provided in Step 33.  
 26) Restore the GST and PST fields in the Excel template to:  
-  - GST = `0.05`  
-  - PST = `0.07`
+  - GST = `$0.05`  
+  - PST = `$0.07`
     
 27) Delete the old Excel file once processing is complete.  
 
