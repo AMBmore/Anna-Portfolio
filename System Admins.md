@@ -85,8 +85,7 @@ Open both systems in a dual-monitor setup:
 
 ## 🟢 Creating the Internal Purchase Order Excel Document
 
-2) In the R Network Drive, navigate to:  
-   “Marketing” > “Retail” > “Internal Purchase Order”  
+2) In the R Network Drive, navigate to: “Marketing” > “Retail” > “Internal Purchase Order”  
 
 3) Select folder “O1JGM.”  
 
@@ -114,11 +113,10 @@ Open both systems in a dual-monitor setup:
 
 9) Skip this section if the order does not include a jersey item.  
 
-▶ **If the item is a Blank Jersey:**  
+→ **If the item is a Blank Jersey:**  
 
 - For player jerseys, select:  
-  “Embroidered Cresting” > “Embroidered Adult PLAYER”  
-  or “Embroidered Adult Cresting” for other custom names.  
+  “Embroidered Cresting” > “Embroidered Adult PLAYER” or “Embroidered Adult Cresting” for other custom names.  
 
 - For specialty jerseys or youth/infant jerseys, use the additional quick-guide buttons located on the right-hand side of the POS system.  
 
