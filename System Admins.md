@@ -9,6 +9,30 @@ nav_order: 2
 
 This technical manual was developed to train staff on creating and processing Internal Purchase Orders for True North Sports + Entertainment. After identifying a lack of formal documentation for this multi-step workflow, I produced a user-friendly guide that includes plain-language instructions, a glossary of terms, a numbered list of step-by-step procedures, and a color-coded index to support navigation between NCR Counterpoint and the Internal PO Template Excel document in a dual-monitor setup. The guide improves process outcomes by helping users identify and avoid common errors. It has been successfully used to onboard new office staff, reducing training time from approximately one month to one week
 
+## Systems and Tools Used
+
+- NCR Counterpoint POS System  
+- Microsoft Excel  
+- PDF editing software  
+- Shared network drives (R Drive)  
+- Windows-based administrative environment  
+- Dual-monitor workflow setup  
+
+## Skills Demonstrated
+
+- Technical documentation and procedural writing  
+- Systems administration workflow support  
+- Business process standardization  
+- User onboarding and training documentation  
+- POS system administration (NCR Counterpoint)  
+- File management and digital record organization  
+- Workflow optimization and error reduction  
+- Cross-system workflow coordination  
+- Administrative troubleshooting  
+- Data entry accuracy and quality control  
+- Accessibility-focused instruction design  
+- Multi-step process documentation  
+
 ## Glossary
 
 | Term              | Definition |
@@ -18,6 +42,10 @@ This technical manual was developed to train staff on creating and processing In
 | **R Network Drive** | The private network drive created for Retail and Marketing documents. |
 | **Open Order file** | The file folder in the R Network Drive for storing in-progress Internal Purchase Orders. |
 | **Completed file** | The file folder in the R Network Drive for storing completed Internal Purchase Orders. |
+
+---
+
+##Sample Procedural Documentation
 
 # Step 1 of 2: How to Create Internal Purchase Orders 
 
