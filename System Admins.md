@@ -64,7 +64,8 @@ Open both of these systems in a dual monitor setup:
 8) Write down the department name that comes up under account number on the PO paper copy: you will use this for renaming the file later.  
 9) SKIP if not a jersey:  
 
-<ul style="list-style-type:circle;"> If the item is a Blank Jersey:  
+<ul style="list-style-type:circle;"> 
+   If the item is a Blank Jersey:  
   - For player jerseys: select “Embroidered Cresting” > “Embroidered Adult PLAYER” or “Embroidered Adult Cresting” for other names.  
   - For specialty jerseys or Youth/infant: Select the other quick guide buttons on the right hand side.  
 
