@@ -13,7 +13,7 @@ The Fantasy Library API is a fictional REST-based service designed to simulate m
 
 Fantasy Library is a fictional cloud-based platform built for public libraries, academic institutions, and regional lending networks. It supports media circulation, branch coordination, and automated lending workflows across distributed systems.
 
-This documentation sample was developed as part of a technical writing portfolio to demonstrate API documentation structure, information architecture, and developer-focused writing using Markdown and GitHub Pages. Prompt engineering techniques and AI-assisted tools such as ChatGPT and Claude Code were used to help model a realistic API workflow and incorporate real-world constraints commonly found in library systems.
+This documentation sample was developed as part of my technical writing portfolio to demonstrate API documentation structure, information architecture, and developer-focused writing using Markdown and GitHub Pages. Prompt engineering techniques and AI-assisted tools such as ChatGPT and Claude Code were used to model a realistic API workflow and incorporate real-world constraints commonly found in library systems.
 
 ---
 
