@@ -56,95 +56,134 @@ This technical manual was developed to train staff on creating and processing In
 
 ## Technical Manual
 
-# Step 1 of 2: How to Create Internal Purchase Orders 
+# Step 1 of 2: Creating Internal Purchase Orders
 
-*Note: Do not process orders on home game days, as it will affect accuracy of profit margins for the day*
+*Note: Do not process orders on home game days, as this affects the accuracy of daily profit margins.*
 
-Open both of these systems in a dual monitor setup:  
+Open both systems in a dual-monitor setup:
+
 🔵 = POS System in NCR Counterpoint  
 🟢 = Internal PO Template in Excel and PDF document format  
 
 ---
 
-## 🔵 To activate NCR Counterpoint (POS):
-1) Activate a till – select “Touchscreen/Cashier”  
-2) Log in with “01INT”  
-3) Select “Activate Drawer”  
-4) Input “0.00” for cash and Shopify  
-5) Select “Ok”  
-6) When it loads, a POS system page comes up. Select “cashier”  
+## 🔵 Activating NCR Counterpoint (POS)
 
-### 🔵 To Start Every Purchase Order in the POS system
-1) Select “Item Look up” and search the items for purchase. Select each desired item.  
+1) Activate a till by selecting “Touchscreen/Cashier.”  
+2) Log in using “01INT.”  
+3) Select “Activate Drawer.”  
+4) Input “0.00” for both cash and Shopify.  
+5) Select “Ok.”  
+6) Once the POS system loads, select “Cashier.”  
 
----
+### 🔵 Starting a Purchase Order in the POS System
 
-## 🟢 Creating Internal Purchase Orders (PO’s) Excel Document:
-2) In the R Network Drive in files, find folder “Marketing” > “Retail” > “Internal Purchase Order”  
-3) Select Folder “O1JGM”  
-4) Use the template file to digitize in Excel the Purchase Order paper received.  
-5) Copy into the Excel file exactly what is written on the form, including:
-   - Person’s name
-   - RE: Subject
-   - Quantity
-   - Date
-   - Account Number  
-
-*Note: In the “Goods/Services - Details” column, use the names of the items as they are written in the system instead of on paper, but do not write in all-caps.*  
-
-6) In the “Price” column, only input the subtotal (🔵found within the bottom-left box in POS) and input in the first “Price” box. Leave the rest of the Price column blank.  
+1) Select “Item Look Up” and search for the requested items.  
+2) Select each item to add it to the purchase order.  
 
 ---
 
-## 🔵 POS:
-7) To apply the discount: Select “Customer Look up” and search the account number, not the name on the request form. If the account number doesn’t come, choose the closest one.  
-8) Write down the department name that comes up under account number on the PO paper copy: you will use this for renaming the file later.  
-9) SKIP if not a jersey:  
+## 🟢 Creating the Internal Purchase Order Excel Document
 
+2) In the R Network Drive, navigate to:  
+   “Marketing” > “Retail” > “Internal Purchase Order”  
 
-▶ If the item is a Blank Jersey:  
-  - For player jerseys: select “Embroidered Cresting” > “Embroidered Adult PLAYER” or “Embroidered Adult Cresting” for other names.  
-  - For specialty jerseys or Youth/infant: Select the other quick guide buttons on the right hand side.  
+3) Select folder “O1JGM.”  
 
- Find Word doc “Internal PO pricing for blank jerseys”, and select the item and the “Price Override” button in the POS. If the price in the system is higher than the word doc price, keep it. If lower, change to the word doc price. *We want to use the higher number of the two.*  
+4) Use the template file to digitize the paper Purchase Order request in Excel.  
 
- Premium Jerseys with names: Assume it is pre-made and the price in POS stays the same, unless Embroidery is stated below.  
+5) Copy the following information exactly as written on the form:
 
- If Embroidering a Jersey: Embroidery is $10 off of the original price – change the price back to original price after applying the account number discount, and take $10 off. (usually $89.99 with the $10 off discount)  
+- Person’s name  
+- RE: Subject  
+- Quantity  
+- Date  
+- Account Number  
 
- If Jets, select Embroidery or Cresting and select the player and number that comes up.  
+*Note: In the “Goods/Services - Details” column, use the item names exactly as they appear in the POS system rather than the handwritten form. Do not use all capital letters.*
 
- For Moose, see green boxes in the middle right hand side (might have to pull POS to larger monitor screen to view). No player or number will come up.  
-
-*Note:*  
-• Override the price of Jets Gear bags to “$0” if other items are ordered as well.  
-• See special price in “GL budget codes” doc for Name bars for full time staff.  
+6) In the “Price” column, input only the subtotal (🔵 located in the bottom-left box within the POS system) into the first “Price” field. Leave the remaining “Price” fields blank.  
 
 ---
 
-10) To fill Discount box in Excel spreadsheet:  
-- Subtract with calculator the subtotal in Excel (Top of Price Column) with the NEW subtotal in the POS.  
+## 🔵 POS Processing
 
-## 🟢 Excel:
-11) Put the calculated amount in DISC. with the minus symbol. Check that the totals and taxes match in both the POS and Excel spreadsheet. If the Excel total is off by 1 cent, adjust it manually by single-clicking on Total.  
+7) To apply the discount, select “Customer Look Up” and search using the account number rather than the name listed on the request form. If the exact account number does not appear, select the closest match.  
 
-12) Rename the file in the following example order:  
-Original-Date-of-Purchase-Order_Department_Name of Person Requesting Purchase Order_optional more info  
+8) Record the department name associated with the account number on the paper PO copy. This information will be used later when renaming the file.  
 
-i. E.g. “Dec-20-2025_Moose Game Production_John Doe_Moose game giveaway”  
+9) Skip this section if the order does not include a jersey item.  
 
-13) Save as both Excel and PDF (2 files) in the Open Orders file.  
+▶ **If the item is a Blank Jersey:**  
+
+- For player jerseys, select:  
+  “Embroidered Cresting” > “Embroidered Adult PLAYER”  
+  or “Embroidered Adult Cresting” for other custom names.  
+
+- For specialty jerseys or youth/infant jerseys, use the additional quick-guide buttons located on the right-hand side of the POS system.  
+
+→ Open the Word document titled “Internal PO pricing for blank jerseys.” Select the item in the POS system and choose “Price Override.”  
+
+- If the POS price is higher than the Word document price, retain the POS price.  
+- If the POS price is lower, change it to match the Word document price.  
+
+*Always use the higher of the two pricing values.*  
+
+→ **Premium jerseys with names:**  
+Assume the jersey is pre-made and retain the existing POS price unless embroidery is specifically requested.  
+
+→ **If embroidering a jersey:**  
+Embroidery is priced at $10 off the original jersey price. After applying the account number discount, return the jersey price to its original amount and subtract $10.  
+
+*(Typically $89.99 after the embroidery discount.)*  
+
+→ **Jets jerseys:**  
+Select “Embroidery” or “Cresting,” then select the player name and number displayed in the system.  
+
+→ **Moose jerseys:**  
+Use the green selection boxes located in the middle-right section of the POS screen. You may need to move the POS system to a larger monitor for visibility. No player name or number will appear.  
+
+*Additional Notes:*  
+
+- Override the price of Jets Gear bags to “$0” if additional items are included in the order.  
+- Refer to the “GL budget codes” document for special Name Bar pricing for full-time staff.  
 
 ---
 
-## 🔵 POS:
-To save the Quote to find later: (Note: If the Right hand side of POS screen is in Embroidery, select “Go Back” Button in top Left hand side)  
+10) To complete the “Discount” field in the Excel spreadsheet:
 
-14) Select “Quote” on right hand side  
-15) Select “Expiration Date” and set date to the end of the next month.  
-16) Ignore the quote number that comes up and press “Close”.  
-17) Send an email to the person requesting the purchase order. Attach the PDF and ask them to digitally sign and return back to you.  
-18) Await a response.  
+- Subtract the original Excel subtotal from the updated POS subtotal using a calculator.  
+
+---
+
+## 🟢 Excel Processing
+
+11) Enter the calculated discount amount in the “DISC.” field using a minus symbol.  
+
+- Verify that the totals and taxes match in both the POS system and the Excel spreadsheet.  
+- If the Excel total differs by one cent, manually adjust it by single-clicking the “Total” field.  
+
+12) Rename the file using the following naming convention:
+
+`Original-Date-of-Purchase-Order_Department_Name of Person Requesting Purchase Order_optional additional information`
+
+Example:
+
+`Dec-20-2025_Moose Game Production_John Doe_Moose game giveaway`
+
+13) Save the file in both Excel and PDF formats within the “Open Orders” folder.  
+
+---
+
+## 🔵 Saving the POS Quote
+
+*Note: If the right-hand side of the POS screen is displaying “Embroidery,” select the “Go Back” button located in the top-left corner.*
+
+14) Select “Quote” on the right-hand side of the POS system.  
+15) Select “Expiration Date” and set the date to the end of the following month.  
+16) Ignore the quote number displayed and select “Close.”  
+17) Email the PDF copy of the Purchase Order to the requester and ask them to digitally sign and return it.  
+18) Await the signed response before proceeding.   
 
 ---
 
