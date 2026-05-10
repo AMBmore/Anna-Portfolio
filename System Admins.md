@@ -65,7 +65,7 @@ Open both of these systems in a dual monitor setup:
 9) SKIP if not a jersey:  
 
 
- If the item is a Blank Jersey:  
+▶ If the item is a Blank Jersey:  
   - For player jerseys: select “Embroidered Cresting” > “Embroidered Adult PLAYER” or “Embroidered Adult Cresting” for other names.  
   - For specialty jerseys or Youth/infant: Select the other quick guide buttons on the right hand side.  
 
