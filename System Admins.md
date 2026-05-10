@@ -265,14 +265,14 @@ Subject line format: `Completed POs + DD/MM/YYYY`
 
 21) Right-click the PDF and select “Open in Microsoft Edge.”  
 22) Using the text tool, replace the Billing Number with the ticket number provided by the POS system.  
-- Example: `TINT1`  
-- Ensure the text color is black.  
+  - Example: `TINT1`  
+  - Ensure the text color is black.  
 23) Select “Save,” not “Save As,” within Microsoft Edge.  
 24) Rename the PDF file by replacing the date portion with the Billing Number.  
 25) Email the Finance department following the instructions provided in Step 33.  
 26) Restore the GST and PST fields in the Excel template to:  
-- GST = `0.05`  
-- PST = `0.07`  
+  - GST = `0.05`  
+  - PST = `0.07`  
 27) Delete the old Excel file once processing is complete.  
 
 ---
