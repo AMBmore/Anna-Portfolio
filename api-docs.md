@@ -17,18 +17,24 @@ This documentation sample was developed as part of my technical writing portfoli
 
 ---
 
-## Audience and Purpose
+## Audience
 
 This documentation is intended for:
 
-- Front-end developers integrating checkout functionality
-- Back-end developers managing lending workflows
-- QA testers validating API behavior
-- Technical stakeholders reviewing API functionality
+- Front-end developers building user-facing library applications  
+- Back-end developers implementing lending and catalog systems  
+- QA engineers validating API behavior and error handling  
+- Technical reviewers assessing system design and integration patterns  
 
-The purpose of this document is to provide clear implementation guidance for interacting with the checkout endpoint while demonstrating professional API documentation standards.
+The purpose of this document is to provide clear implementation guidance for interacting with the checkout endpoint while demonstrating professional API documentation standards. The API is designed to be predictable, consistent, and easy to integrate into modern web and mobile applications.
 
-[Add more audience or use-case details here if desired.]
+---
+
+## Scope
+
+This documentation focuses specifically on the checkout workflow within the Fantasy Library API. It covers request structure, authentication, response formatting, error handling, and related lending behavior.
+
+Additional system functionality such as catalog search, user authentication, and inventory management is referenced but not included in this section.
 
 ---
 
@@ -68,8 +74,11 @@ All parameters are sent as `application/x-www-form-urlencoded`.
 ### Implementation Notes
 
 - Physical books require a valid pickup branch.
-- Ebook checkouts become immediately available after request completion.
-- If `due_days` is omitted, the system automatically applies the default lending period.
+- Ebook availability is subject to licensing agreements and may limit concurrent checkouts across institutions.
+- If `due_days` is omitted, the system automatically applies the default lending period.  
+- If multiple checkout requests are submitted simultaneously for the same book, only the first successful transaction will be committed. Subsequent requests will return a `book_unavailable` error.
+- Due dates are automatically adjusted to avoid statutory holidays and institutional closure periods.
+- Accounts with repeated overdue activity may be flagged for review and temporarily restricted from new checkouts.
 
 [Add additional implementation notes or business rules here.]
 
