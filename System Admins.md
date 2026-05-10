@@ -1,5 +1,5 @@
 ---
-title: System Admins
+title: Systems Administration
 layout: default
 parent: Technical Writing Samples
 nav_order: 2
