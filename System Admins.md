@@ -185,113 +185,118 @@ Example:
 
 ---
 
-# Step 2 of 2: How to process a Purchase Order in the Open Orders File
+# Step 2 of 2: Processing a Purchase Order in the Open Orders File
 
-• To complete AFTER the signature  
-• Do not process order on the day of a home game, as it effects game night profit margins.  
-
----
-
-## 📄 PDF:
-19) Download the signed PO from email and save to the “Open Orders” file (add “signed” to save as.)  
-20) Delete the old, unsigned PDF.  
+- Complete this process only AFTER receiving the signed Purchase Order.  
+- Do not process orders on home game days, as this affects the accuracy of game-night profit margins.  
 
 ---
 
-## 🔵 POS:
-21) Press “Quote recall”  
-22) Flip through to find the correct ticket. Then select “Recall Quote.”  If you recall the wrong one, press Quote > reassign the date. Close.  
-23) Select “Go to Payments”  
-24) Select “Other payments”  
-25) Select “On Account”  
-26) Select “Ok”, and make sure the price matches  
-27) Input the Account Number from the PDF, even if it was an “Official & Proud Partner”.  
-28) Select “yes” for ticket complete  
-29) Don’t close the ticket number that comes up.  
+## 📄 PDF Processing
+
+19) Download the signed Purchase Order from email and save it to the “Open Orders” folder. Add “signed” to the file name when saving.  
+20) Delete the previous unsigned PDF copy.  
 
 ---
 
-## 📄 PDF:
-30) When provided with the ticket number (TINT1 etc.), change the text color to black, and write the ticket number under “Bill Number” on the PDF.  
-• To copy and paste the same font: right click on the PDF and select “Open in Microsoft Edge,” OR use a snipping tool.  
+## 🔵 POS Processing
 
-31) Press Save, not Save as.  
-32) Rename the PDF file: Replace the date with the Billing Number.  
-
-33) Once all POs have been processed for the day, email the Finance department with the PDFs for all completed POs. Subject line: “Completed POs + DD/MM/YYYY”  
-
-34) Move the PDFs from “Open Orders” file to the “Completed” file, in the folders for the correct month and year when the order was processed.  
-
-35) Shred the original purchase order paper copies once the digital files have been emailed to Finance and moved to the completed folder.  
-
----
-
-# How to Process Internal Gift Card Purchase Orders:
-
-*Note: There are no discounts or taxes for Gift Cards*  
-
-## 🟢 Excel:
-1) Input total price in the top of the price column  
-2) Leave DISCOUNT blank  
-3) Manually change the GST & PST tax boxes to $0.00  
-4) Change the name of the file (see step 12) and Save two copies to Excel and PDF  
-5) Send the PO to be signed BEFORE putting into the POS system  
-6) Once Signed, save the signed PDF to the Open Orders file, and delete the old PDF  
+21) Select “Quote Recall.”  
+22) Browse through the available tickets to locate the correct quote, then select “Recall Quote.”  
+- If the incorrect quote is recalled, select “Quote” > reassign the date > “Close.”  
+23) Select “Go to Payments.”  
+24) Select “Other Payments.”  
+25) Select “On Account.”  
+26) Select “Ok” and verify that the total price matches the Purchase Order.  
+27) Input the Account Number listed on the PDF, even if the account is marked as an “Official & Proud Partner.”  
+28) Select “Yes” to complete the ticket.  
+29) Do not close the ticket number window that appears.  
 
 ---
 
-## 🔵 POS (Once Signed): 
-7) Press “Sell GC” button on the Right hand side  
-8) In “Description”, type “Gift Card”  
-9) Type in the number on the card, or scan with a barcode scanner for better accuracy. Doublecheck the number after scanning.  
-10) Input the requested funds amount  
-11) Press “OK”  
-12) Insert the Gift Card into a Gift Card holder and write the amount on the back.  
+## 📄 Updating the PDF
 
-13) Select “Customer Look up”, and look up the Account Number, not the customer name. If the number doesn’t come up, use a similar one.  
-14) Select “Go to Payments”  
-15) Select “Other Payments”  
-16) Select “On Account”  
-17) Select OK  
-18) Input the Account Number – Note: Use the exact one written on the PDF, even if you used a diff. one in the customer lookup.  
-19) Select “yes” for complete  
-20) Don’t close the ticket number that comes up.  
+30) Once the ticket number is generated (e.g., “TINT1”), change the text color to black and enter the ticket number under the “Bill Number” field on the PDF.  
+- To match the existing font style, right-click the PDF and select “Open in Microsoft Edge,” or use a snipping tool for reference.  
+31) Select “Save,” not “Save As.”  
+32) Rename the PDF file by replacing the date portion with the Billing Number.  
+33) After all Purchase Orders for the day have been processed, email the Finance department with all completed PDF Purchase Orders attached.  
+- Subject line format: `Completed POs + DD/MM/YYYY`  
+34) Move the completed PDFs from the “Open Orders” folder to the appropriate “Completed” folder for the correct month and year.  
+35) Shred the original paper Purchase Orders once the digital copies have been emailed to Finance and moved to the completed folder.  
 
 ---
 
-## 📄 PDF:
-21) Right click on the PDF and select “Open in Microsoft Edge,”  
-22) Using the text tool, change the Billing Number to the one provided by the POS.  
-a. E.g. “TINT1.” Save the text color to black.  
+# Processing Internal Gift Card Purchase Orders
 
-23) Select “Save”, not “Save as,” within Edge or Chrome.  
-24) Rename the PDF file: Replace the date with the Billing Number.  
-25) Email the Finance department as specified above in Step 33  
-26) Remember to put taxes back to GST = 0.05 and PST = 0.07 in the Excel Template once finished  
-27) Delete the old Excel file.  
+*Note: Gift Card Purchase Orders do not include discounts or taxes.*  
 
 ---
 
-## 🔵 How to Close NCR Counterpoint:
+## 🟢 Excel Processing
 
-This task is normally completed at the end of the day after processing Purchase Orders  
+1) Input the total price in the first “Price” field.  
+2) Leave the “DISCOUNT” field blank.  
+3) Manually change the GST and PST fields to `$0.00`.  
+4) Rename the file according to the naming convention described in Step 12, then save both an Excel and PDF copy.  
+5) Send the Purchase Order for signature approval BEFORE entering the order into the POS system.  
+6) Once signed, save the signed PDF to the “Open Orders” folder and delete the previous unsigned PDF.  
 
-1) Exit out of the POS but remain in the small window  
-2) Select “Point of Sale”  
-3) Select “Drawers”  
-4) Select “Drawer Management”  
-5) Make sure it says “01INT”  
-6) Select the account that says “Active”  
-7) Select “Reconcile”  
-8) Select “yes”  
-9) Enter all of the data from the “Amount Expected” column into the adjacent “Amount Reconciled” column next to it.  
-10) Make sure the “Total/Over” column = $0.00  
-11) Select “Ok” for Drawer Closed  
-12) Once the order says “Reconciled”, select “post”  
-13) Check the box that says “Use Ticket Date”, and leave the date empty.  
-14) Select “Post”  
-15) Do not print the Z tape  
-16) Select “Ok”  
-17) Email the Finance department as specified above in Step 33  
+---
 
+## 🔵 POS Processing (After Signature Approval)
 
+7) Select the “Sell GC” button on the right-hand side of the POS system.  
+8) In the “Description” field, enter “Gift Card.”  
+9) Enter the Gift Card number manually or scan the barcode for improved accuracy. Double-check the number after scanning.  
+10) Input the requested funds amount.  
+11) Select “OK.”  
+12) Insert the Gift Card into a Gift Card holder and write the dollar amount on the back.  
+13) Select “Customer Look Up” and search using the Account Number rather than the customer name. If the exact number is unavailable, select the closest match.  
+14) Select “Go to Payments.”  
+15) Select “Other Payments.”  
+16) Select “On Account.”  
+17) Select “OK.”  
+18) Input the Account Number exactly as written on the signed PDF, even if a different account was used during the lookup process.  
+19) Select “Yes” to complete the ticket.  
+20) Do not close the ticket number window that appears.  
+
+---
+
+## 📄 Updating the Gift Card PDF
+
+21) Right-click the PDF and select “Open in Microsoft Edge.”  
+22) Using the text tool, replace the Billing Number with the ticket number provided by the POS system.  
+- Example: `TINT1`  
+- Ensure the text color is black.  
+23) Select “Save,” not “Save As,” within Microsoft Edge.  
+24) Rename the PDF file by replacing the date portion with the Billing Number.  
+25) Email the Finance department following the instructions provided in Step 33.  
+26) Restore the GST and PST fields in the Excel template to:  
+- GST = `0.05`  
+- PST = `0.07`  
+27) Delete the old Excel file once processing is complete.  
+
+---
+
+# 🔵 Closing NCR Counterpoint
+
+This task is typically completed at the end of the day after all Purchase Orders have been processed.  
+
+1) Exit the POS screen while remaining within the smaller NCR Counterpoint window.  
+2) Select “Point of Sale.”  
+3) Select “Drawers.”  
+4) Select “Drawer Management.”  
+5) Verify that the account displays “01INT.”  
+6) Select the account marked “Active.”  
+7) Select “Reconcile.”  
+8) Select “Yes.”  
+9) Enter each value from the “Amount Expected” column into the adjacent “Amount Reconciled” column.  
+10) Verify that the “Total/Over” field displays `$0.00`.  
+11) Select “Ok” to close the drawer.  
+12) Once the order status displays “Reconciled,” select “Post.”  
+13) Check the box labeled “Use Ticket Date,” and leave the date field blank.  
+14) Select “Post.”  
+15) Do not print the Z tape.  
+16) Select “Ok.”  
+17) Email the Finance department according to the instructions provided in Step 33.  
