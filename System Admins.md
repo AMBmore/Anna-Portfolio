@@ -13,7 +13,7 @@ This technical manual was developed to train staff on creating and processing In
 
 | Term              | Definition |
 |-------------------|------------|
-| **PO**            | A Purchase Order, which is a legally binding document issued by a buyer to a seller outlining the terms of specific goods and services, including item or service descriptions, price, and quantities. |
+| **PO**            | A Purchase Order (PO) is a legally binding document issued by a buyer to a seller outlining the terms of specific goods and services, including item or service descriptions, price, and quantities. |
 | **POS system**    | A Point of Sale system used to process customer transactions, checkout payments, and manage inventory for a business. |
 | **R Network Drive** | The private network drive created for Retail and Marketing documents. |
 | **Open Order file** | The file folder in the R Network Drive for storing in-progress Internal Purchase Orders. |
@@ -21,7 +21,7 @@ This technical manual was developed to train staff on creating and processing In
 
 # Step 1 of 2: How to Create Internal Purchase Orders 
 
-*Note: Do not process orders on any Jets or Moose home game days, as it will affect accuracy of profit margins for the day*
+*Note: Do not process orders on home game days, as it will affect accuracy of profit margins for the day*
 
 Open both of these systems in a dual monitor setup:  
 🔵 = POS System in NCR Counterpoint  
@@ -38,7 +38,7 @@ Open both of these systems in a dual monitor setup:
 6) When it loads, a POS system page comes up. Select “cashier”  
 
 ### 🔵 To Start Every Purchase Order in the POS system
-1) Select “Item Look up” and search the item. Select each item.  
+1) Select “Item Look up” and search the items for purchase. Select each desired item.  
 
 ---
 
@@ -46,14 +46,14 @@ Open both of these systems in a dual monitor setup:
 2) In the R Network Drive in files, find folder “Marketing” > “Retail” > “Internal Purchase Order”  
 3) Select Folder “O1JGM”  
 4) Use the template file to digitize in Excel the Purchase Order paper received.  
-5) Copy into the Excel file exactly what is written on the form, including:  
-• Person’s name  
-• RE: Subject  
-• Quantity  
-• Date  
-• Account Number  
+5) Copy into the Excel file exactly what is written on the form, including:
+   - Person’s name
+   - RE: Subject
+   - Quantity
+   - Date
+   - Account Number  
 
-*Note: In the “Goods/Services - Details” column, use the names of the items as they are written in the system instead of the paper. Do not write in all-caps.*  
+*Note: In the “Goods/Services - Details” column, use the names of the items as they are written in the system instead of on paper, but do not write in all-caps.*  
 
 6) In the “Price” column, only input the subtotal (🔵found within the bottom-left box in POS) and input in the first “Price” box. Leave the rest of the Price column blank.  
 
@@ -64,9 +64,9 @@ Open both of these systems in a dual monitor setup:
 8) Write down the department name that comes up under account number on the PO paper copy: you will use this for renaming the file later.  
 9) SKIP if not a jersey:  
 
- If the item is a Blank Jersey:  
-• For player jerseys: select “Embroidered Cresting” > “Embroidered Adult PLAYER” or “Embroidered Adult Cresting” for other names.  
-• For specialty jerseys or Youth/infant: Select the other quick guide buttons on the right hand side.  
+<ul style="list-style-type:circle;"> If the item is a Blank Jersey:  
+  - For player jerseys: select “Embroidered Cresting” > “Embroidered Adult PLAYER” or “Embroidered Adult Cresting” for other names.  
+  - For specialty jerseys or Youth/infant: Select the other quick guide buttons on the right hand side.  
 
  Find Word doc “Internal PO pricing for blank jerseys”, and select the item and the “Price Override” button in the POS. If the price in the system is higher than the word doc price, keep it. If lower, change to the word doc price. *We want to use the higher number of the two.*  
 
