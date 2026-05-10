@@ -9,7 +9,7 @@ nav_order: 2
 
 This technical manual was developed to train staff on creating and processing Internal Purchase Orders for True North Sports + Entertainment. After identifying a lack of formal documentation for this multi-step administrative workflow, I created a user-focused guide to standardize procedures and reduce onboarding time. This guide has been successfully used to onboard new office staff, reducing training time from approximately one month to one week.
 
-The manual includes:
+## The manual includes:
 
 - Plain-language procedural instructions
 - A glossary of technical and organizational terminology
@@ -54,7 +54,7 @@ The manual includes:
 
 ---
 
-## Sample Procedural Documentation
+## Technical Manual
 
 # Step 1 of 2: How to Create Internal Purchase Orders 
 
