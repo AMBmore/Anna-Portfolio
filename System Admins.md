@@ -7,7 +7,16 @@ nav_order: 2
 
 # How to Process Internal Purchase Orders  
 
-This technical manual was developed to train staff on creating and processing Internal Purchase Orders for True North Sports + Entertainment. After identifying a lack of formal documentation for this multi-step workflow, I produced a user-friendly guide that includes plain-language instructions, a glossary of terms, a numbered list of step-by-step procedures, and a color-coded index to support navigation between NCR Counterpoint and the Internal PO Template Excel document in a dual-monitor setup. The guide improves process outcomes by helping users identify and avoid common errors. It has been successfully used to onboard new office staff, reducing training time from approximately one month to one week
+This technical manual was developed to train staff on creating and processing Internal Purchase Orders for True North Sports + Entertainment. After identifying a lack of formal documentation for this multi-step administrative workflow, I created a user-focused guide to standardize procedures and reduce onboarding time. This guide has been successfully used to onboard new office staff, reducing training time from approximately one month to one week.
+
+The manual includes:
+
+- Plain-language procedural instructions
+- A glossary of technical and organizational terminology
+- Numbered step-by-step workflows
+- Cross-referenced navigation between NCR Counterpoint and Excel templates
+- Color-coded sections optimized for dual-monitor workflows
+- Error-prevention guidance for common processing mistakes  
 
 ## Systems and Tools Used
 
