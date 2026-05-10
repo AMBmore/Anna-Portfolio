@@ -80,8 +80,6 @@ All parameters are sent as `application/x-www-form-urlencoded`.
 - Due dates are automatically adjusted to avoid statutory holidays and institutional closure periods.
 - Accounts with repeated overdue activity may be flagged for review and temporarily restricted from new checkouts.
 
-[Add additional implementation notes or business rules here.]
-
 ---
 
 ## Example Request
@@ -185,13 +183,13 @@ The API uses a Stripe-style error format to provide consistent error reporting.
 
 ### Common Error Scenarios
 
-| Error Code            | Description                         |
-| --------------------- | ----------------------------------- |
-| `book_unavailable`    | Book is already checked out         |
-| `user_limit_reached`  | User exceeded active checkout limit |
-| `invalid_branch`      | Pickup branch does not exist        |
-
-[Add additional error scenarios or troubleshooting information here.]
+| Error Code            | Description                                       |
+| --------------------- | ------------------------------------------------- |
+| `book_unavailable`    | Book is already checked out                       |
+| `user_limit_reached`  | User exceeded active checkout limit (10)          |
+| `invalid_branch`      | Pickup branch does not exist                      |
+| `restricted_item`     | book requires administrative approval             |
+| `missing_parameter`   | required field not provided (e.g., `user`, `book`)|
 
 ---
 
