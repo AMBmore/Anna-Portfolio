@@ -202,8 +202,7 @@ Example:
 ## 🔵 POS Processing
 
 21) Select “Quote Recall.”  
-22) Browse through the available tickets to locate the correct quote, then select “Recall Quote.”  
-- If the incorrect quote is recalled, select “Quote” > reassign the date > “Close.”  
+22) Browse through the available tickets to locate the correct quote, then select “Recall Quote.”  If the incorrect quote is recalled, select “Quote” > reassign the date > “Close.”  
 23) Select “Go to Payments.”  
 24) Select “Other Payments.”  
 25) Select “On Account.”  
@@ -216,14 +215,13 @@ Example:
 
 ## 📄 Updating the PDF
 
-30) Once the ticket number is generated (e.g., “TINT1”), change the text color to black and enter the ticket number under the “Bill Number” field on the PDF.  
-- To match the existing font style, right-click the PDF and select “Open in Microsoft Edge,” or use a snipping tool for reference.  
+30) Once the ticket number is generated (e.g., “TINT1”), change the text color to black and enter the ticket number under the “Bill Number” field on the PDF.  To match the existing font style, right-click the PDF and select “Open in Microsoft Edge,” or use a snipping tool for reference.  
 31) Select “Save,” not “Save As.”  
 32) Rename the PDF file by replacing the date portion with the Billing Number.  
-33) After all Purchase Orders for the day have been processed, email the Finance department with all completed PDF Purchase Orders attached.  
-- Subject line format: `Completed POs + DD/MM/YYYY`  
-34) Move the completed PDFs from the “Open Orders” folder to the appropriate “Completed” folder for the correct month and year.  
-35) Shred the original paper Purchase Orders once the digital copies have been emailed to Finance and moved to the completed folder.  
+33) After all Purchase Orders for the day have been processed, email the Finance department with all completed PDF Purchase Orders attached.
+Subject line format: `Completed POs + DD/MM/YYYY`  
+35) Move the completed PDFs from the “Open Orders” folder to the appropriate “Completed” folder for the correct month and year.  
+36) Shred the original paper Purchase Orders once the digital copies have been emailed to Finance and moved to the completed folder.  
 
 ---
 
