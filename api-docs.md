@@ -226,19 +226,24 @@ This documentation sample was created using:
 - Claude Code
 - VS Code
 
-[Add additional tools, frameworks, or workflow details here.]
-
 ---
 
 ## Technical Writing Notes
 
-This portfolio sample was designed to demonstrate:
+This documentation sample was designed to emulate production-level API documentation commonly found in developer platforms such as Stripe and GitHub. One of the primary writing decisions was to structure the documentation in a modular format (Overview → Authentication → Request → Response → Errors). This approach was chosen to support quick scanning and predictable navigation patterns, which are critical in developer-facing documentation.
 
-- API endpoint documentation
-- Information hierarchy and readability
-- Structured request and response formatting
-- Error handling documentation
-- Developer-focused writing
-- Markdown documentation workflows
+Another intentional decision was to include realistic constraints such as rate limiting, idempotency, and branch-level policy differences. These additions were used to reflect real-world system complexity rather than presenting an overly simplified API model.
 
-[Add personal reflections, writing decisions, or lessons learned here.]
+Using AI-assisted tools such as ChatGPT and Claude Code helped accelerate the drafting process and allowed for rapid creation of edge cases and error scenarios. However, all structural decisions, documentation architecture, and final wording were reviewed and refined manually to ensure clarity and consistency.
+
+### Lessons Learned
+
+- Clear separation between “how to use” and “system behavior” improves usability  
+- Adding realistic failure scenarios makes documentation more credible and useful for developers  
+- Consistent formatting across tables, code blocks, and sections is essential for readability  
+- API documentation benefits greatly from thinking in terms of developer tasks rather than just endpoints  
+
+### Future Improvements
+
+In the future, I would expand this documentation to include additional endpoints such as user authentication and catalog search, to better represent a full API ecosystem. I would also incorporate interactive examples to further enhance usability.
+
