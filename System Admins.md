@@ -45,7 +45,7 @@ This technical manual was developed to train staff on creating and processing In
 
 ---
 
-##Sample Procedural Documentation
+## Sample Procedural Documentation
 
 # Step 1 of 2: How to Create Internal Purchase Orders 
 
