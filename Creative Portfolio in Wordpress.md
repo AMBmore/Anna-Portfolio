@@ -54,4 +54,4 @@ The site is designed for a general audience, including peers, collaborators, and
 - SoundCloud
 - Splice - Video Editor and Maker iOS app. 
 
-Users may subscribe to my WordPress blog to receive new content direcetly to their email inbox.
+Users may subscribe to my WordPress blog to receive new content directly to their email inbox.
