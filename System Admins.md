@@ -220,8 +220,8 @@ Example:
 32) Rename the PDF file by replacing the date portion with the Billing Number.  
 33) After all Purchase Orders for the day have been processed, email the Finance department with all completed PDF Purchase Orders attached.
 Subject line format: `Completed POs + DD/MM/YYYY`  
-35) Move the completed PDFs from the “Open Orders” folder to the appropriate “Completed” folder for the correct month and year.  
-36) Shred the original paper Purchase Orders once the digital copies have been emailed to Finance and moved to the completed folder.  
+34) Move the completed PDFs from the “Open Orders” folder to the appropriate “Completed” folder for the correct month and year.  
+35) Shred the original paper Purchase Orders once the digital copies have been emailed to Finance and moved to the completed folder.  
 
 ---
 
