@@ -41,7 +41,7 @@ Please note that this desk can be created with the stacked drawers on either the
 You will need the following tools to complete assembly: 
 
 - Flathead screwdriver
-- Philips screwdriver
+- Phillips screwdriver
 - Hammer  
 
 Assembly Tips:
@@ -97,7 +97,7 @@ In addition to the furniture components, the MICKE desk includes the following h
       <li>Small Drawer: Approx. 23.5 cm (W) x 36.3 cm (D) x 7.8 cm (H)</li>
     </ul>
 
-    Lay the plank with a horizontal indent and two holes on the upper sides on a flat surface. Use the Philips screwdriver to screw in one Cam Lock Screw on each side in the lower holes.
+    Lay the plank with a horizontal indent and two holes on the upper sides on a flat surface. Use the Phillips screwdriver to screw in one Cam Lock Screw on each side in the lower holes.
   </div>
 </div>
 
@@ -147,7 +147,7 @@ Attach two small planks with divots on the inside and large holes on the outside
 
 <div style="display:flex; gap:24px; align-items:center;">
 <div style="font-size:40px; font-weight:bold;">8</div>
-<div>Use the Philips screwdriver to screw two Drawer Screws on each side into the drawer glides.</div>
+<div>Use the Phillips screwdriver to screw two Drawer Screws on each side into the drawer glides.</div>
 </div>
 
 Repeat steps 1-8 to complete the second drawer.
@@ -226,7 +226,7 @@ Place a wide wooden plank with three large holes on each side on a flat, cushion
 
 <div style="display:flex; gap:24px;">
 <div style="font-size:40px; font-weight:bold;">17</div>
-<div>Use the Philips screwdriver to screw in four Cam Lock Screws, two at the bottom of each large wood panel. This will be on the opposite ends furthest away from the Drawer Runners.</div>
+<div>Use the Phillips screwdriver to screw in four Cam Lock Screws, two at the bottom of each large wood panel. This will be on the opposite ends furthest away from the Drawer Runners.</div>
 </div>
 
 ---
@@ -447,7 +447,7 @@ On the new wood panel, attach two Hinge Baseplates at the ends of the long row o
 <div style="display:flex; gap:24px;">
 <div style="font-size:40px; font-weight:bold;">17</div>
 <div>
-Use the Philips screwdriver to screw in four Cam Lock Screws, two at the bottom of each large wood panel. This will be on the opposite ends furthest away from the Drawer Runners. 
+Use the Phillips screwdriver to screw in four Cam Lock Screws, two at the bottom of each large wood panel. This will be on the opposite ends furthest away from the Drawer Runners. 
 </div>
 </div>
 
