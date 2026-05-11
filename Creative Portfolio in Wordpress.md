@@ -9,26 +9,29 @@ nav_order: 2
 
 View my Creative Portfolio here: 
 
-<a href="/https://amblackmore.wordpress.com/" target="_blank"
+<div style="display:flex; gap:10px; flex-wrap:wrap; align-items:center;">
+
+<a href="https://amblackmore.wordpress.com/" target="_blank"
    style="background:#2563eb;
           color:white;
           padding:10px 18px;
           text-decoration:none;
           border-radius:6px;
-          display:inline-block;
-          margin-right:10px;">
-  Untitiled Unmastered - Home
+          display:inline-block;">
+  Untitled Unmastered - Home
 </a>
 
-<a href="/https://amblackmore.wordpress.com/blog/" target="_blank"
+<a href="https://amblackmore.wordpress.com/blog/" target="_blank"
    style="background:#111827;
           color:white;
           padding:10px 18px;
           text-decoration:none;
           border-radius:6px;
           display:inline-block;">
-  Untitiled Unmastered - Blog
+  Untitled Unmastered - Blog
 </a>
+
+</div>
 
 My WordPress site Untitled Unmastered was developed in 2019 as a centralized platform to document and present a range of creative work. The homepage functions as a professional landing page used for applications (e.g. grants and submissions), while the blog serves as a structured, scrollable archive of projects, written pieces, and multimedia content.
 
