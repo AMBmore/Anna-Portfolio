@@ -7,7 +7,7 @@ nav_order: 2
 
 # Creative Portfolio in WordPress
 
-View my Creative Portolio here: 
+View my Creative Portfolio here: 
 
 [Untitiled Unmastered - Home](https://amblackmore.wordpress.com/)
 
