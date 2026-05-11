@@ -102,7 +102,9 @@ curl https://api.fantasy-library.io/v1/library/checkouts \
 Successful requests return a `library.checkout` object.
 
 ```json
-{
+"status": 200,
+"content": {
+
   "id": "chk_1NwZQ2Lxk9s8",
   "object": "library.checkout",
   "created": 1712352000,
