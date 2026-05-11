@@ -9,7 +9,7 @@ nav_order: 1
 
 ## Overview
 
-The Fantasy Library API is a fictional REST-based service designed to simulate modern library management systems that support both physical and digital lending workflows. It enables developers to manage core operations such as user accounts, book checkouts, and lending policies programmatically.
+The Fantasy Library API is a fictional REST-based service designed to simulate modern library management systems that support both physical and digital lending workflows. It enables developers to manage core operations such as user accounts, book checkouts, and lending policies.
 
 Fantasy Library is a fictional cloud-based platform built for public libraries, academic institutions, and regional lending networks. It supports media circulation, branch coordination, and automated lending workflows across distributed systems.
 
@@ -17,7 +17,7 @@ This documentation sample was developed as part of my technical writing portfoli
 
 ---
 
-## Audience
+## Audience and Purpose
 
 This documentation is intended for:
 
@@ -32,9 +32,9 @@ The purpose of this document is to provide clear implementation guidance for int
 
 ## Scope
 
-This documentation focuses specifically on the checkout workflow within the Fantasy Library API. It covers request structure, authentication, response formatting, error handling, and related lending behavior.
+This documentation focuses on the checkout workflow within the Fantasy Library API, including authentication, request and response structure, error handling, and related lending behavior.
 
-Additional system functionality such as catalog search, user authentication, and inventory management is referenced but not included in this section.
+Additional functionality such as catalog search, user authentication, and inventory management is referenced but not covered in this section. Some system-level behaviors are included where they directly affect checkout processing.
 
 ---
 
@@ -73,12 +73,13 @@ All parameters are sent as `application/x-www-form-urlencoded`.
 
 ### Implementation Notes
 
-- Physical books require a valid pickup branch.
-- Ebook availability is subject to licensing agreements and may limit concurrent checkouts across institutions.
-- If `due_days` is omitted, the system automatically applies the default lending period.  
-- If multiple checkout requests are submitted simultaneously for the same book, only the first successful transaction will be committed. Subsequent requests will return a `book_unavailable` error.
-- Due dates are automatically adjusted to avoid statutory holidays and institutional closure periods.
-- Accounts with repeated overdue activity may be flagged for review and temporarily restricted from new checkouts.
+- Physical books require a valid pickup branch
+- If `format=ebook`, the `pickup_branch` field is ignored
+- If `due_days` is omitted, the system automatically applies the default lending period  
+- Simultaneous requests for the same resource are processed sequentially to prevent duplicate checkouts
+- Parameter names are case-sensitive
+- Metadata keys are limited to 40 characters and values are limited to 500 characters
+- Requests sent with invalid content types will return an `unsupported_media_type` error
 
 ---
 
@@ -199,8 +200,11 @@ The system automatically applies the following lending policies:
 
 - Users can have up to **10 active checkouts**
 - Restricted books require elevated permissions
+- Ebook availability is subject to licensing agreements and may limit concurrent checkouts across institutions
 - Overdue accounts may be temporarily blocked from creating new checkouts
 - Ebook checkouts do not require pickup locations
+- Accounts with repeated overdue activity may be flagged for review and temporarily restricted from new checkouts
+- Due dates are automatically adjusted to avoid statutory holidays and institutional closure periods
 
 ---
 
