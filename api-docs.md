@@ -145,7 +145,9 @@ This endpoint supports idempotency keys to safely retry requests without creatin
 Idempotency-Key: chk_abc123_unique_key
 ```
 
-Idempotency is especially useful in situations involving network interruptions or repeated client requests.
+Idempotency keys handle retry safety at the client level, while concurrency rules govern simultaneous server-side processing.
+
+Idempotency is especially useful during network interruptions, request timeouts, or repeated client submissions.
 
 ---
 
@@ -189,8 +191,8 @@ The API uses a Stripe-style error format to provide consistent error reporting.
 | `book_unavailable`    | Book is already checked out                       |
 | `user_limit_reached`  | User exceeded active checkout limit (10)          |
 | `invalid_branch`      | Pickup branch does not exist                      |
-| `restricted_item`     | book requires administrative approval             |
-| `missing_parameter`   | required field not provided (e.g., `user`, `book`)|
+| `restricted_item`     | Book requires administrative approval             |
+| `missing_parameter`   | Required field not provided (e.g., `user`, `book`)|
 
 ---
 
