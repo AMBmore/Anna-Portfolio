@@ -69,7 +69,7 @@ Open both systems in a dual-monitor setup:
 
 ## 🔵 Activating NCR Counterpoint (POS)
 
-1) Activate a till by selecting “Touchscreen/Cashier.”  
+1) Activate a till by selecting `Touchscreen/Cashier.`  
 2) Log in using “01INT.”  
 3) Select “Activate Drawer.”  
 4) Input “0.00” for both cash and Shopify.  
