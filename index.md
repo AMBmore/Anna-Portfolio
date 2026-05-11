@@ -22,5 +22,14 @@ When I’m not writing documentation, I’m usually playing saxophone, composing
 
 Feel free to explore my work or reach out!
 
-[Connect with me on LinkedIn](https://www.linkedin.com/in/annablackmore/)
+<a href="https://www.linkedin.com/in/annablackmore" target="_blank"
+   style="border:2px solid #2563eb;
+          color:#2563eb;
+          padding:10px 18px;
+          text-decoration:none;
+          border-radius:6px;
+          display:inline-block;
+          font-weight:bold;">
+  Connect with me on LinkedIn
+</a>
 
