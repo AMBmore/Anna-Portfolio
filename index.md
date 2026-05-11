@@ -10,7 +10,7 @@ Hello! I’m Anna, a technical and content writer with experience across softwar
 
 ## Background:
 
-- Request for Proposal documentation
+- Request for Proposal (RFP) documentation
 - Designing clear instructional design materials
 - Managing editorial and publishing workflows
 - Research in literature, humanities, and cultural studies
